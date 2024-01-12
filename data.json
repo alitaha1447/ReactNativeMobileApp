@@ -1,0 +1,7 @@
+  export const companyData :[
+  {
+    "id": 1,
+    "company": "Photosnap",
+    "logo": "./images/photosnap.svg"
+  }
+]
